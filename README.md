@@ -1,19 +1,22 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akshat%20Anand&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=🤖+AI+Developer+%26+ML+Engineer;🧠+Building+Intelligent+Systems;🔥+Python+%7C+TensorFlow+%7C+Computer+Vision;🚀+Turning+Ideas+into+Reality;💡+Always+Learning%2C+Always+Building" alt="Typing SVG" />
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=akshatanand-cell&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/🤖%20AI%20Developer-%20-60A5FA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠%20ML%20Engineer-%20-a78bfa?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔥%20Always%20Building-%20-f97316?style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=akshatanand-cell&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Lives-India%20🇮🇳-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lives-India-blue?style=for-the-badge" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Building%20🔥-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Building-orange?style=for-the-badge" />
 
 </div>
 
@@ -90,7 +93,7 @@ class AkshatAnand:
 
 <div align="center">
 
-**Languages**
+**👨‍💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -98,7 +101,7 @@ class AkshatAnand:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**AI & Machine Learning**
+**🤖 AI & Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -106,7 +109,7 @@ class AkshatAnand:
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge)
 
-**Data & Tools**
+**📊 Data & Tools**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -124,13 +127,13 @@ class AkshatAnand:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshatanand-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshatanand-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatanand-cell&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatanand-cell&layout=compact&theme=tokyonight&hide_border=true" />
-
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatanand-cell&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 ---
@@ -138,7 +141,7 @@ class AkshatAnand:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akshatanand-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akshatanand-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
 </div>
 
 ---
@@ -173,6 +176,8 @@ class AkshatAnand:
 <br/>
 
 ⭐ *Building intelligent systems that solve real problems — one project at a time.*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
