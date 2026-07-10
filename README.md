@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Akshat%20Anand&fontSize=50&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20ML%20Developer%20%7C%20Full-Stack%20Builder%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=18"/>
+# Akshat Anand
+
+**AI & ML Developer · Full-Stack Builder · B.Tech CSE (AI & ML)**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C6FFF&center=true&vCenter=true&width=800&lines=Building+AI+products+end-to-end;Data+pipelines+%E2%86%92+ML+models+%E2%86%92+shipped+apps;6+internships+%7C+1+hackathon+%7C+4+certifications;Always+shipping%2C+always+learning" />
 
@@ -8,6 +10,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-akshatanand--cell-181717?style=for-the-badge&logo=github)](https://github.com/akshatanand-cell)
 [![Email](https://img.shields.io/badge/Email-akshatanandkiit%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatanandkiit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akshat--anand-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-anand-580077379)
+[![Followers](https://img.shields.io/github/followers/akshatanand-cell?style=for-the-badge&label=Followers&color=7C6FFF&logo=github)](https://github.com/akshatanand-cell?tab=followers)
 
 </div>
 
@@ -25,13 +29,16 @@ I'm a B.Tech CSE (AI & ML) student who likes taking projects the whole way — f
 <br/>
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=akshatanand-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatanand-cell&layout=compact&theme=tokyonight&hide_border=true"/>
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akshatanand-cell&label=Public%20Repos&query=$.public_repos&color=7C6FFF&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/akshatanand-cell?affiliations=OWNER&style=for-the-badge&color=7C6FFF&label=Stars)
+![Top Language](https://img.shields.io/github/languages/top/akshatanand-cell/RetailPulse?style=for-the-badge&color=7C6FFF&label=Top%20Language)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatanand-cell&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatanand-cell&theme=tokyonight&hide_border=true"/>
-</div>
+> Note: the badges above pull live data from GitHub/shields.io. The streak card above uses a free community-hosted service — if it ever shows broken, it's that service being temporarily down, not your file; just delete that one `<img>` line until it's back.
 
 <br/>
 
@@ -154,7 +161,7 @@ What makes it stand out: the README documents every tooling substitution honestl
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/akshatanand-cell)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatanandkiit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akshat-anand-580077379)
 
 </div>
 
@@ -163,7 +170,5 @@ What makes it stand out: the README documents every tooling substitution honestl
 <div align="center">
 
 ### 💭 "Artificial Intelligence is not about replacing humans. It's about amplifying human potential."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,11,20"/>
 
 </div>
