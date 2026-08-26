@@ -1,6 +1,3 @@
-
-Claude finished the response
-
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=AKSHAT%20ANAND&fontSize=55&fontAlignY=40&animation=fadeIn&desc=AI%20Developer%20%7C%20Machine%20Learning%20Engineer%20%7C%20Problem%20Solver&descAlignY=60"/> <img src="https://readme-typ
 
 pasted
